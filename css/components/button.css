@@ -1,0 +1,16 @@
+.btn-medium {
+  color: white;
+  padding: 15px 25px;
+  border-radius: 40px;
+  background: #6665DD;
+  font-family: 'Petit Formal Script', cursive;
+  font-style: lighter;
+  opacity: 0.8;
+  display: inline;
+}
+
+.btn-medium:hover {
+  background: #FFE66D;
+  font-family: 'Petit Formal Script', cursive;
+  color: #6665DD;
+}
